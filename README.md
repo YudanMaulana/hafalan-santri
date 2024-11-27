@@ -1,6 +1,6 @@
 # Hafalan Santri Project !
 
-**Aplikasi untuk memudahkan para Santri menghapal dimana saja*
+**Aplikasi untuk memudahkan para Santri menghapal dimana saja**
 
 ### Contact me for more info !
 **instagram** [@yudanmaulana21](https://www.instagram.com/yudan_maulana21/)
